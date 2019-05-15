@@ -142,19 +142,21 @@ My learning experience in CMU.
 
 - Intro:
 
- 	> 
+ 	> 由greg在ini开设的简单版的分布式系统课程，据说相比scs的同名课程，该课的难度稍为低一点。greg是个很有“激情”的老师，有些时候我甚至怀疑他是不是有甲亢。兴奋的时候他甚至会站上桌子，并且在桌子上走来走去。他的讲课风格比较适合你课前看一下本节课的notes或者之前有一些基础，因为他是那种喜欢课上侃大山的人，讲的内容没有什么章法，想到哪算哪。
 
 - Content:
-	> 
+	> 从两台机器如何通讯讲起，依次讲过network，rpc，时间同步，concurrency，分布式锁以及选举，raft和Paxos，一些经典的dfs：NFS, AFS, Coda， Haystack， Memcached, Redis，ACID和BASE，Logging和Recovering，Cassandra和LSM，yarn和spark，区块链和加密技术，虚拟化和容器技术，etc。 
+	
+	> 从内容上来看还是非常充实的，但是讲的时候有些地方可能会选择性的略过，如果提前没有预习的话可能有点听不太懂。
 
 - Workload:
-	> 
+	> 总共有6次作业4个项目和两次考试，其实workload也是不轻的。因为这是第一个学期上的课，所以上的非常的认真，每周耗时也在20小时左右。
 
 - Grade:
-	> 
+	> 这是我对分数怨念比较大的一门课，因为有一题真的是奇奇怪怪得被扣掉了所有得分，不过也无所谓了，最后给分还是比较大方的。
 	
 - Personal thought:
-	> 
+	> 这门课对我来说还是非常受用的，尤其是greg这种吹逼得讲课风格非常适合面试的时候回答面试官的问题，我也确实通过这门课学到了很多面试时候的吹逼技能，尤其是疯狂讲解Cassandra的实现简直是吹逼一大利器。
 
 ----
 
@@ -203,42 +205,27 @@ My learning experience in CMU.
 
 ### Easy:
 
-#### 49-801 Enterprise Innovation
+#### 49-801 Enterprise Innovation & 49-807 Exponent Innovation
+
 
 - Intro:
 
- 	> 
+ 	> 这两门课都是由integrated innovation institute开设的课程，说实话，我选这两门课完全是为了水，事实也证明这两门课确实比较水。
 
 - Content:
-	> 
+	> 每周邀请各个公司（多为startup）的CIO来吹逼。有些还有点意思，印象比较深刻的有电子烟独角兽juul和sap投资的sapphire ventures。固定高光嘉宾是以把乔布斯赶出苹果出名的，前可口可乐、苹果CEO John Sculley。
 
 - Workload:
-	> 
+	> 没有什么workload，< 3 小时
 
 - Grade:
-	> 
+	> 据说给分挺好
 	
 - Personal thought:
-	> 
+	> 除了有一点就是社交能力（connection，communication）真的很重要以外，没什么别的想法。大家都在一个圈子里打滚（坑蒙拐骗），维持一团和气还是很重要的，说不定哪天就要有求于别人了。
 
 ----
 
-#### 49-807 Exponent Innovation
 
-- Intro:
-
- 	> 
-
-- Content:
-	> 
-
-- Workload:
-	> 
-
-- Grade:
-	> 
-	
-- Personal thought:
-	> 
 
 
