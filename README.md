@@ -1,6 +1,22 @@
 # CMU-Courses-Cool-Down
 My learning experience in CMU.
 
+### 索引
+
+| Course  | Difficulty | Workload  | Grade | Recommendation |
+|:--:|:--:|:--:|:--:|:--:|
+|[49-801 Enterprise Innovation](#49-801-enterprise-innovation--49-807-exponent-innovation)|⭐️|⏳|NA|💎💎|
+|[49-807 Exponent Innovation](#49-801-enterprise-innovation--49-807-exponent-innovation)|⭐️|⏳|❤️❤️❤️❤️❤️|💎💎|
+|[18-656 Data Intensive Workflow](#18-656-data-intensive-workflow)|⭐️⭐️|⏳⏳⏳|❤️❤️❤️|💎💎|
+|[18-843 Mobile Pervasive Computing](#18-843-mobile-pervasive-computing)   |⭐️⭐️|⏳⏳|❤️❤️❤️|💎💎|
+|[18-652 Foundations of Software Engineering](#18-652-foundations-of-software-engineering)  |⭐️⭐️⭐️|⏳⏳⏳⏳|❤️|💎💎💎|
+|[14-736 （简单版15-640）Distributed Systems](#14-736-简单版15-640distributed-systems)|⭐️⭐️⭐️⭐️|⏳⏳⏳⏳|❤️❤️❤️❤️|💎💎💎💎|
+|[18-600（15-513） Foundations of Computer Systems](#18-60015-513-foundations-of-computer-systems)|⭐️⭐️⭐️⭐️⭐️|⏳⏳⏳⏳⏳|❤️❤️❤️❤️❤️|💎💎💎💎💎|
+|[15-619 Cloud Computing](#15-619-cloud-computing-)|⭐️⭐️⭐️⭐️⭐️⭐️|⏳⏳⏳⏳⏳⏳|❤️❤️❤️❤️❤️|💎💎💎💎💎|
+|[11-785 Introduction to Deep Learning](#11-785-introduction-to-deep-learning)|⭐️⭐️⭐️⭐️⭐️|⏳⏳⏳⏳⏳|❤️❤️❤️❤️|💎💎💎💎|
+|[18-661（10-661） Introduction to Machine Learning](#18-66110-661-introduction-to-machine-learning)|⭐️⭐️⭐️⭐️⭐️|⏳⏳⏳⏳|❤️❤️❤️|💎💎💎💎|
+
+
 ----
 
 
@@ -120,7 +136,7 @@ My learning experience in CMU.
 
 ### 很难:
 
-#### 18-600（15-513） Foundations of Computer Systems：
+#### 18-600（15-513） Foundations of Computer Systems
 
 
 - Intro:
@@ -224,6 +240,6 @@ My learning experience in CMU.
 	> 虽然老师还是很大方的给了个B，但是考了62的我比median分数都差了不少。
 	
 - Personal thought:
-	> 本课应该创下了我学生生涯考试的最低分数吧，真的是我最受打击的一门课程，不仅仅考试考的低，而且发现自己是确确实实学不会。直到最后复习的时候，我才慢慢地有些感悟到，这些机器学习方法都是通过定义和假设得出一个目标函数，然后通过各种变形和方法（简单的变换求导，拉格朗日对偶之类），最后变成可以使用MLE或者MAP求得最优解的过程。也就是有点所谓的求解“凸优化”过程吧。这门课也打消了我最后一点点想做科研的想法，我觉得如果没有过硬的数学功底就投入到轰轰烈烈地AI大潮中去，最终也只能沦为调参工程师而已。
+	> 本课应该创下了我学生生涯考试的最低分数吧，真的是我最受打击的一门课程，不仅仅考试考的低，而且发现自己是确确实实学不会。直到最后复习的时候，我才慢慢地有些感悟到，这些机器学习方法都是通过定义和假设得出一个目标函数，然后通过各种变形和方法（简单的变换求导，拉格朗日对偶之类），最后变成可以使用MLE或者MAP求得最优解的过程。也就是有点所谓的求解“凸优化”过程吧。这门课也打消了我最后一点点想做科研的想法，我觉得如果没有过硬的数学功底就投入到轰轰烈烈的AI大潮中去，最终也只能沦为调参工程师而已。
 
 ----
