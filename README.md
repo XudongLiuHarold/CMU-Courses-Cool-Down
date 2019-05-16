@@ -48,7 +48,7 @@
 	> 据说给分挺好
 	
 - Personal thought:
-	> 除了有一点就是社交能力（connection，communication）真的很重要以外，没什么别的想法。大家都在一个圈子里打滚（坑蒙拐骗），维持一团和气还是很重要的，说不定哪天就要有求于别人了。
+	> 除了有一点就是社交能力（connection，communication）真的很重要以外，没什么别的想法。
 
 ----
 
