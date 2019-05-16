@@ -3,7 +3,122 @@ My learning experience in CMU.
 
 ----
 
-### Hardcore:
+
+### 水:
+
+#### 49-801 Enterprise Innovation & 49-807 Exponent Innovation
+
+
+- Intro:
+
+ 	> 这两门课都是由integrated innovation institute开设的课程，说实话，我选这两门课完全是为了水，事实也证明这两门课确实比较水。
+
+- Content:
+	> 每周邀请各个公司（多为startup）的CIO来吹逼。有些还有点意思，印象比较深刻的有电子烟独角兽juul和sap投资的sapphire ventures。固定高光嘉宾是以把乔布斯赶出苹果出名的，前可口可乐、苹果CEO John Sculley。
+
+- Workload:
+	> 没有什么workload，< 3 小时
+
+- Grade:
+	> 据说给分挺好
+	
+- Personal thought:
+	> 除了有一点就是社交能力（connection，communication）真的很重要以外，没什么别的想法。大家都在一个圈子里打滚（坑蒙拐骗），维持一团和气还是很重要的，说不定哪天就要有求于别人了。
+
+----
+
+### 一般:
+
+#### 18-656 Data Intensive Workflow
+
+- Intro:
+
+ 	> 这门课是jia老师的课程，虽然要求先修另一门service oriented computing，但是我还是强度关山地直接上了这一门。说实话，jia老师的课内容都有些陈旧了，有些东西真的是被淘汰了很久的知识，这一点倒是类似在同济上课的感觉。所以能不修就不修吧，但是这是我的核心课程，所以没办法，只得硬着头皮上了。
+
+- Content:
+	> 除了关于RDBMS和no sql db的知识以外其他的都是属于应付考试就行了的知识，背诵完了可以立马忘掉。
+
+- Workload:
+	> 每周大约在13小时左右，最后用play这个框架写的网站比较花时间。
+
+- Grade:
+	> jia老师给分不错，基本上认真考试得分都不是很低。
+	
+- Personal thought:
+	> 没什么想法，中间几节关于数据库的知识可以听一听，其他的就算了。
+
+----
+
+#### 18-843 Mobile Pervasive Computing
+
+- Intro:
+
+ 	> 这门课感觉是为了PhD专门开设的课程，不太适合我们这些master，不过我也在课上选到了读论文和一些写latex，做one minute madness演讲的经验，也算没有白费吧。
+
+- Content:
+	> 每周阅读pei老师专注的mobile pervasive领域的paper大概6到7篇，然后最后有个team project需要完成一下。
+
+- Workload:
+	> 每周大概在8小时左右。 
+
+- Grade:
+	> 本来据说pei老师给分不错，但是我感觉还是有点低的，可能因为自己表现不好吧。
+	
+- Personal thought:
+	> 没什么想法，就是明白了paper里面哪些是废话哪些是主要内容，以及写了三次latex的report感觉自己latex水平有些进步，就是这样。
+
+----
+
+
+### 有点难:
+
+#### 18-652 Foundations of Software Engineering
+
+- Intro:
+
+ 	> 本课是所有SE项目的必修课，而且要求第一学期就要选修，避无可避，只得选择。这课主要是课上教授一些软件工程概念和方法，然后让你在通过实现一个类似im的app来实践这些内容。
+
+- Content:
+	> 内容刚开始其实完全就是本科在同济上的[杜青峰](http://sse.tongji.edu.cn/Data/View/2817)老师教的软件工程这门课的翻版。类似软件开发模型，OOAD，设计模式，测试，etc。但是因为每周都要按照这种软件工程的方法去写app，所以其实还是挺充实的。但是这门课也有杜老师课上没有涉及到的知识，明显感觉出现在05年之后的知识，杜老师的课上就没有讲过了。例如新的软件开发模型lean model，hybrid model，CI/CD，AB test，SOLID原则之类的。
+
+- Workload:
+	> 因为每两周都要迭代几个use case，所以其实workload并没有想象中的少，反而还有些多，大概每周20小时左右。
+
+- Grade:
+	> 给分非常严格而且低。所有SE项目的三个老师都是出了名的给分低，也不知道为什么SE的老师非得这样折磨自己专业的学生。
+	
+- Personal thought:
+	> 这门课其实还是挺有用的，能够快速帮助你适应公司的工作方式，非常有利于工作。而且能够为你以后开始掌管一个技术团队该如何入手之类的也能打下一定的基础吧。
+
+----
+
+
+
+#### 14-736 （简单版15-640）Distributed Systems
+
+- Intro:
+
+ 	> 由greg在ini开设的简单版的分布式系统课程，据说相比scs的同名课程，该课的难度稍为低一点。greg是个很有“激情”的老师，有些时候我甚至怀疑他是不是有甲亢。兴奋的时候他甚至会站上桌子，并且在桌子上走来走去。他的讲课风格比较适合你课前看一下本节课的notes或者之前有一些基础，因为他是那种喜欢课上侃大山的人，讲的内容没有什么章法，想到哪算哪。
+
+- Content:
+	> 从两台机器如何通讯讲起，依次讲过network，rpc，时间同步，concurrency，分布式锁以及选举，raft和Paxos，一些经典的dfs：NFS, AFS, Coda， Haystack， Memcached, Redis，ACID和BASE，Logging和Recovering，Cassandra和LSM，yarn和spark，区块链和加密技术，虚拟化和容器技术，etc。 
+	
+	> 从内容上来看还是非常充实的，但是讲的时候有些地方可能会选择性的略过，如果提前没有预习的话可能有点听不太懂。
+
+- Workload:
+	> 总共有6次作业4个项目和两次考试，其实workload也是不轻的。因为这是第一个学期上的课，所以上的非常的认真，每周耗时也在20小时左右。
+
+- Grade:
+	> 这是我对分数怨念比较大的一门课，因为有一题真的是奇奇怪怪得被扣掉了所有得分，不过也无所谓了，最后给分还是比较大方的。
+	
+- Personal thought:
+	> 这门课对我来说还是非常受用的，尤其是greg这种吹逼得讲课风格非常适合面试的时候回答面试官的问题，我也确实通过这门课学到了很多面试时候的吹逼技能，尤其是疯狂讲解Cassandra的实现简直是吹逼一大利器。
+
+----
+
+
+
+### 很难:
 
 #### 18-600（15-513） Foundations of Computer Systems：
 
@@ -112,120 +227,3 @@ My learning experience in CMU.
 	> 本课应该创下了我学生生涯考试的最低分数吧，真的是我最受打击的一门课程，不仅仅考试考的低，而且发现自己是确确实实学不会。直到最后复习的时候，我才慢慢地有些感悟到，这些机器学习方法都是通过定义和假设得出一个目标函数，然后通过各种变形和方法（简单的变换求导，拉格朗日对偶之类），最后变成可以使用MLE或者MAP求得最优解的过程。也就是有点所谓的求解“凸优化”过程吧。这门课也打消了我最后一点点想做科研的想法，我觉得如果没有过硬的数学功底就投入到轰轰烈烈地AI大潮中去，最终也只能沦为调参工程师而已。
 
 ----
-
-
-### Hard:
-
-#### 18-652 Foundations of Software Engineering
-
-- Intro:
-
- 	> 本课是所有SE项目的必修课，而且要求第一学期就要选修，避无可避，只得选择。这课主要是课上教授一些软件工程概念和方法，然后让你在通过实现一个类似im的app来实践这些内容。
-
-- Content:
-	> 内容刚开始其实完全就是本科在同济上的[杜青峰](http://sse.tongji.edu.cn/Data/View/2817)老师教的软件工程这门课的翻版。类似软件开发模型，OOAD，设计模式，测试，etc。但是因为每周都要按照这种软件工程的方法去写app，所以其实还是挺充实的。但是这门课也有杜老师课上没有涉及到的知识，明显感觉出现在05年之后的知识，杜老师的课上就没有讲过了。例如新的软件开发模型lean model，hybrid model，CI/CD，AB test，SOLID原则之类的。
-
-- Workload:
-	> 因为每两周都要迭代几个use case，所以其实workload并没有想象中的少，反而还有些多，大概每周20小时左右。
-
-- Grade:
-	> 给分非常严格而且低。所有SE项目的三个老师都是出了名的给分低，也不知道为什么SE的老师非得这样折磨自己专业的学生。
-	
-- Personal thought:
-	> 这门课其实还是挺有用的，能够快速帮助你适应公司的工作方式，非常有利于工作。而且能够为你以后开始掌管一个技术团队该如何入手之类的也能打下一定的基础吧。
-
-----
-
-
-
-#### 14-736 （简单版15-640）Distributed Systems
-
-- Intro:
-
- 	> 由greg在ini开设的简单版的分布式系统课程，据说相比scs的同名课程，该课的难度稍为低一点。greg是个很有“激情”的老师，有些时候我甚至怀疑他是不是有甲亢。兴奋的时候他甚至会站上桌子，并且在桌子上走来走去。他的讲课风格比较适合你课前看一下本节课的notes或者之前有一些基础，因为他是那种喜欢课上侃大山的人，讲的内容没有什么章法，想到哪算哪。
-
-- Content:
-	> 从两台机器如何通讯讲起，依次讲过network，rpc，时间同步，concurrency，分布式锁以及选举，raft和Paxos，一些经典的dfs：NFS, AFS, Coda， Haystack， Memcached, Redis，ACID和BASE，Logging和Recovering，Cassandra和LSM，yarn和spark，区块链和加密技术，虚拟化和容器技术，etc。 
-	
-	> 从内容上来看还是非常充实的，但是讲的时候有些地方可能会选择性的略过，如果提前没有预习的话可能有点听不太懂。
-
-- Workload:
-	> 总共有6次作业4个项目和两次考试，其实workload也是不轻的。因为这是第一个学期上的课，所以上的非常的认真，每周耗时也在20小时左右。
-
-- Grade:
-	> 这是我对分数怨念比较大的一门课，因为有一题真的是奇奇怪怪得被扣掉了所有得分，不过也无所谓了，最后给分还是比较大方的。
-	
-- Personal thought:
-	> 这门课对我来说还是非常受用的，尤其是greg这种吹逼得讲课风格非常适合面试的时候回答面试官的问题，我也确实通过这门课学到了很多面试时候的吹逼技能，尤其是疯狂讲解Cassandra的实现简直是吹逼一大利器。
-
-----
-
-
-### Medium:
-
-#### 18-656 Data Intensive Workflow
-
-- Intro:
-
- 	> 
-
-- Content:
-	> 
-
-- Workload:
-	> 
-
-- Grade:
-	> 
-	
-- Personal thought:
-	> 
-
-----
-
-#### 18-843 Mobile Pervasive Computing
-
-- Intro:
-
- 	> 
-
-- Content:
-	> 
-
-- Workload:
-	> 
-
-- Grade:
-	> 
-	
-- Personal thought:
-	> 
-
-----
-
-### Easy:
-
-#### 49-801 Enterprise Innovation & 49-807 Exponent Innovation
-
-
-- Intro:
-
- 	> 这两门课都是由integrated innovation institute开设的课程，说实话，我选这两门课完全是为了水，事实也证明这两门课确实比较水。
-
-- Content:
-	> 每周邀请各个公司（多为startup）的CIO来吹逼。有些还有点意思，印象比较深刻的有电子烟独角兽juul和sap投资的sapphire ventures。固定高光嘉宾是以把乔布斯赶出苹果出名的，前可口可乐、苹果CEO John Sculley。
-
-- Workload:
-	> 没有什么workload，< 3 小时
-
-- Grade:
-	> 据说给分挺好
-	
-- Personal thought:
-	> 除了有一点就是社交能力（connection，communication）真的很重要以外，没什么别的想法。大家都在一个圈子里打滚（坑蒙拐骗），维持一团和气还是很重要的，说不定哪天就要有求于别人了。
-
-----
-
-
-
-
