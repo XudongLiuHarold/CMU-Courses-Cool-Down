@@ -1,13 +1,3 @@
-
-<style>
-table th,td:first-of-type {
-	width: 120px;
-}
-</style>
-
-
-# 求学
-
 # CMU 求学记录
 
 > *My heart is in the work.*
@@ -24,7 +14,7 @@ table th,td:first-of-type {
 
 ### 总结
 
-| Course  | Difficulty |Workload| Grade| Recommendation |
+| Course  | Difficulty |Workload| Grade Feedback | Recommendation |
 |:--:|:--:|:--:|:--:|:--:|
 |[49-801 Enterprise Innovation](#49-801-enterprise-innovation--49-807-exponent-innovation)|⭐️|⏳|NA|💎💎|
 |[49-807 Exponent Innovation](#49-801-enterprise-innovation--49-807-exponent-innovation)|⭐️|⏳|❤️❤️❤️❤️❤️|💎💎|
