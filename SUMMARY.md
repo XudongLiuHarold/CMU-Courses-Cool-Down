@@ -1,6 +1,7 @@
 # Summary
 
-* [求学](README.md)
+* [湾区漂流记](README.md)
+* [求学](study.md)
     * [简单](easy.md)
     * [一般](medium.md)
     * [困难](hard.md)
